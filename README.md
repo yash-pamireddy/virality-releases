@@ -1,1 +1,1 @@
-# virality-releases
+# Virality Releases
